@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me<br>Hi there! I'm a passionate and curious Data Science student (Semester 2) based in Indonesia. Currently exploring the world of data analytics, statistics, and machine learning while working on various projects.<br><br>I'm open to freelance or paid opportunities related to:<br>📊 Data Analysis<br>🧠 Data Science<br>🛠️ Data Engineering<br><br>I'm always learning, and always coding. Feel free to reach out if you'd like to collaborate, mentor, or just talk about data, tech, or games! 🎮<br><br>🎓 Fun fact: I genuinely enjoy solving math problems for fun — total data nerd here.
+💫 About Me<br>Hi there! I'm a passionate and curious Data Science student (Semester 2) based in Indonesia. Currently exploring the world of data analytics, statistics, and machine learning while working on various projects.<br><br>I'm open to freelance or paid opportunities related to:<br>📊 Data Analysis<br>🧠 Data Science<br>🛠️ Data Engineering<br><br>I'm always learning, and always coding. Feel free to reach out if you'd like to collaborate, mentor, or just talk about data, tech, or games! 🎮<br><br>🎓 Fun fact: I genuinely enjoy solving analytical problems for fun — total data nerd here.
 
 
 ## 🌐 Socials:
